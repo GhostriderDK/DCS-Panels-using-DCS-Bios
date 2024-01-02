@@ -7,3 +7,5 @@ the plan is to use micropython. but lets see how that goes.
 
 you can follow the progression here and possibly on youtube later when the project starts up fully
 
+updated 02/01-2024
+
